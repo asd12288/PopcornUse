@@ -1,4 +1,4 @@
-import { use, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import StarRating from "./StarsRating";
 import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocaleStorageState";
